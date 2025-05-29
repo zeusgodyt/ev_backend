@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/charger.png" alt="EV Charger Logo" width="350" />
+</p>
+
 # EV Charging Station Management - Backend
 
 This directory contains the Node.js and Express backend for the EV Charging Station Management System. It provides a RESTful API for user authentication and CRUD operations on charging station data.
