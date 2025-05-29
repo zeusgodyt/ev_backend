@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/charger.png" alt="EV Charger Logo" width="350" />
+  <img src="public/charger.png" alt="EV Charger Logo" width="250" />
 </p>
 
 # EV Charging Station Management - Backend
